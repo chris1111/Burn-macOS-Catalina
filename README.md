@@ -16,4 +16,4 @@
 
 
 
-#### Download ➤ [Burn-macOS-Catalina.zip ](https://github.com/chris1111/Burn-macOS-Catalina/releases/tag/V1)
+## Download ➤ [Burn-macOS-Catalina.zip ](https://github.com/chris1111/Burn-macOS-Catalina/releases/tag/V1)
