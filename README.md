@@ -10,7 +10,7 @@
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/ignore10.png)
 
-#### Wait . . .
+#### Drag your image in window then Wait . . .
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/burn10.png)
 
@@ -20,4 +20,4 @@
 
 
 
-#### Download ➤ [Burn-macOS-Catalina.zip ]()
+#### Download ➤ [Burn-macOS-Catalina.zip ](https://github.com/chris1111/Burn-macOS-Catalina/releases/tag/V1)
