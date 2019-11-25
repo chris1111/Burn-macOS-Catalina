@@ -1,6 +1,7 @@
 # Burn-macOS-Catalina
 
-### The option of burning DVD is almost non-existent in macOS Catalina 10.15 and here is why I created this useful app
+### The option of burning DVD is almost non-existent in macOS Catalina 10.15 and here is why I created this app
+- Working from 10.8 to 10.15
 
 #### Open Burn-macOS-Catalina
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/burn010.png)
