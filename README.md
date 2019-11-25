@@ -9,6 +9,7 @@
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/ignore10.png)
 
 #### Drag your image in window then Wait . . .
+![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/drag_i10.png)
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/burn10.png)
 
 #### Done
